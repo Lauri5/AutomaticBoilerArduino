@@ -1,6 +1,6 @@
 # Boiler Smart Control System
 
-A simple project to remotely control a boiler using:
+A simple project to remotely control my boiler using:
 - An ESP32 microcontroller with a servo motor.
 - A React Native mobile app.
 - Firebase for real-time data storage.
