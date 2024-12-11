@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@react-native-firebase/app": "^21.6.1",
+    "caldaianative": "file:",
     "expo": "~52.0.18",
     "expo-status-bar": "~2.0.0",
     "firebase": "^11.0.2",
