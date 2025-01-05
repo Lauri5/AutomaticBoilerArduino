@@ -1,0 +1,46 @@
+{
+  "Monday": {
+    "activationTime1": "06:30",
+    "deactivationTime1": "08:30",
+    "activationTime2": "18:00",
+    "deactivationTime2": "21:00"
+  },
+  "Tuesday": {
+    "activationTime1": "06:30",
+    "deactivationTime1": "08:30",
+    "activationTime2": "18:00",
+    "deactivationTime2": "21:00"
+  },
+  "Wednesday": {
+    "activationTime1": "06:30",
+    "deactivationTime1": "08:30",
+    "activationTime2": "18:00",
+    "deactivationTime2": "21:00"
+  },
+  "Thursday": {
+    "activationTime1": "06:30",
+    "deactivationTime1": "08:30",
+    "activationTime2": "18:00",
+    "deactivationTime2": "21:00"
+  },
+  "Friday": {
+    "activationTime1": "06:30",
+    "deactivationTime1": "08:30",
+    "activationTime2": "18:00",
+    "deactivationTime2": "21:00"
+  },
+  "Saturday": {
+    "activationTime1": "09:00",
+    "deactivationTime1": "11:00",
+    "activationTime2": "15:00",
+    "deactivationTime2": "19:00"
+  },
+  "Sunday": {
+    "activationTime1": "09:00",
+    "deactivationTime1": "11:00",
+    "activationTime2": "15:00",
+    "deactivationTime2": "19:00"
+  },
+  "manual": 0,
+  "state": 0
+}
