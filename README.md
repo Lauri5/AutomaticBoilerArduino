@@ -13,7 +13,7 @@ A simple project to remotely control my boiler using:
 
 ## Setup Steps
 1. **Hardware**: Connect ESP32 to Wi-Fi, attach servo to GPIO pin (e.g., pin 25).
-2. **Firebase**: Create a Firebase Realtime Database project. Get URL and secret/auth key.
+2. **Firebase**: Create a Firebase Realtime Database project and upload the database.json. Get URL and secret/auth key.
 3. **ESP32 Code**: Update Wi-Fi and Firebase details, upload the code.
 4. **React Native App**: Update `firebaseConfig.js` with Firebase credentials and run `npm start`.
 
