@@ -22,7 +22,7 @@ A simple project to remotely control my boiler using:
 - **MANUAL OFF (manual=1)**: Force OFF.
 - **MANUAL ON (manual=2)**: Force ON.
 
-Set times in `HH:MM` format. If `activationTime < deactivationTime`, boiler runs within that daily window. If `activationTime > deactivationTime`, it runs past midnight until the deactivation time.
+Set times in `HH:MM` format for up to two time slots per day of the week. If `activationTime < deactivationTime`, boiler runs within that daily window. If `activationTime > deactivationTime`, it runs past midnight until the deactivation time.
 
 ## Troubleshooting
 - Check Wi-Fi, Firebase credentials, and servo wiring.
