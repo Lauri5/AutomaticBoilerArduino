@@ -177,7 +177,7 @@ export default function App() {
 
   // Toggle manual mode between 1 (off) and 2 (on)
   const toggleSwitch = () => {
-    const newManual = manual === 0 ? 2 : 1;
+    const newManual = state === 0 ? 2 : 1;
     update(ref(database, "/"), { manual: newManual })
       .then(() => {
         alert("Mode updated successfully!");
